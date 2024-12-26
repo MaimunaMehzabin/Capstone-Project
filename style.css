@@ -12,17 +12,17 @@ p {
   background-attachment: fixed;
 }
 .pimg1 {
-  background-image: url("https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e2/f8/43/longest-sea-beach-in.jpg?w=1100&h=1100&s=1");
+  background-image: url("https://i.pinimg.com/736x/b4/c0/55/b4c055879785a2e8690c55fbfaa16d42.jpg");
   min-height: 400px;
 }
 
 .pimg2 {
-  background-image: url("https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/09/77/b1/3f.jpg");
+  background-image: url("https://i.pinimg.com/736x/2b/d7/94/2bd794074458b6736571013df18e9288.jpg");
   min-height: 400px;
 }
 
 .pimg3 {
-  background-image: url("https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/62/a0/75/the-beauty-of-humhum.jpg?w=500&h=-1&s=1");
+  background-image: url("https://i.pinimg.com/736x/6c/3a/87/6c3a871d9d479227ff463031543c7e11.jpg");
   min-height: 400px;
 }
 
